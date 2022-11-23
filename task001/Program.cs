@@ -7,6 +7,7 @@
 string[] array = { "hello", "world", "i", "am", "Roman", "Makulin", "1998", ":-)" };
 string[] array2 = new string[array.Length];
 int n = 3;
+
 StringWithNElements(array, array2);
 PrintArray(array2);
 
